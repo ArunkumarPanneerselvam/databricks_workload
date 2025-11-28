@@ -547,7 +547,15 @@ print("Tuples (immutable?)")
 
 #Convert the list back to tuple
 
+print("Sets (mutable) - Notation {} - "
+      "Set is a sorted and distinct collection of iterable elements, cannot be accessed using index ?? Why?")
 
+#how to access the element of a set (cant be access directly by using index/key/values)
+#Set is iterable? Yes
+#Set is mutable? Yes
+#Set is resizable? Yes
+#Set is distinct? Yes
+#Set is sorted
 
 print("Set (mutable) (least important)- Notation {} - "
       "Set is a sorted and distinct collection of iterable elements, cannot be accessed using index ?? Why?")
